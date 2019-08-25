@@ -1,4 +1,4 @@
-*NBA - MEJORES TIRADORES DE TRIPLES*
+<h1>¿QUIÉN ES EL MEJOR TRIPLISTA DE LA NBA?</h1>
 
 El proyecto consiste en descubrir a los mejores tiradores de triples de los últimos diez años de la NBA, así como un análisis más exhaustivo del rendimiento en las últimas temporadas del mejor triplista actual: Stephen Curry.
 
